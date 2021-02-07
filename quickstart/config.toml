@@ -1,0 +1,4 @@
+baseURL = "kathrynwhelan.com/"
+languageCode = "en-us"
+title = "Hello World 3.0"
+theme = "gohugo-theme-ananke"
